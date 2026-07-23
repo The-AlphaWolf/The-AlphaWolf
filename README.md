@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Arijit Paul</h1>
-<h3 align="center">Problem Solver | LeetCode Guardian | Builder of Local-First Tools</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:c1440e,100:ff6b35&height=280&section=header&text=Arijit%20Paul&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Problem%20Solver%20|%20LeetCode%20Guardian%20|%20Builder%20of%20Local-First%20Tools&descAlignY=52&descSize=18" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Electronics+%26+Telecomm+Engineer+%40+JU;LeetCode+Guardian+%7C+Top+0.66%25;Python+%2B+C%2B%2B+%2B+TypeScript;Offline-first%2C+No+Cloud%2C+No+Telemetry;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-AlphaWolf&label=Profile%20views&color=FF6B35&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/The-AlphaWolf?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/The-AlphaWolf?label=Stars&style=social" alt="stars" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-paul-ju)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dequnuch@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RoseRei_Arijit/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/The-AlphaWolf)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Electronics+%26+Telecomm+Engineer+%40+JU;LeetCode+Guardian+%7C+Top+0.66%25;Python+%2B+C%2B%2B+%2B+TypeScript;Offline-first%2C+No+Cloud%2C+No+Telemetry;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=The-AlphaWolf&label=Profile%20Views&color=FF6B35&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/The-AlphaWolf?label=Followers&style=for-the-badge&color=FF6B35&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/The-AlphaWolf?label=Total%20Stars&style=for-the-badge&color=FF6B35&logo=github" alt="stars" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 **Jadavpur University** — Electronics & Telecommunication Engineering, **Class of 2027**
 - 🏅 **LeetCode Guardian** — contest rating **2260**, global rank **~5,500**, top **0.66%**
@@ -23,6 +39,8 @@
 - 💬 Ask me about **Python, C++, DSA, local-first / privacy-first tooling**
 - 📫 Reach me at **dequnuch@gmail.com**
 - ⚡ Philosophy: *Build it local, build it fast, build it so it works offline*
+
+<br clear="right"/>
 
 ---
 
