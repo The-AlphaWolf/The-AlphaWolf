@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Junior at **Jadavpur University** — Electronics & Telecommunication Engineering, **Class of 2027**
+- 🎓 **Jadavpur University** — Electronics & Telecommunication Engineering, **Class of 2027**
 - 🏅 **LeetCode Guardian** — contest rating **2260**, global rank **~5,500**, top **0.66%**
 - 🔭 Currently building **[FlowSuite](https://github.com/The-AlphaWolf/FlowSuite)** — offline voice-to-code engine (Python/C++ transpilers, zero cloud)
 - 🧪 Also built **[StyleSense AI](https://github.com/The-AlphaWolf/AI-Driven-body-analysis)** — CV-based style recommender (MediaPipe + Flask + React) and **RIS / SNR fading research** from the ETCE side
