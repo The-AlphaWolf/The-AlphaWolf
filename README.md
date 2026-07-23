@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://the-alphawolf.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-paul-ju)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dequnuch@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RoseRei_Arijit/)
@@ -180,7 +181,7 @@ Primary CP languages: **Python3** (96 solved) and **C++** (55 solved).
 | **[Restaurent-management](https://github.com/The-AlphaWolf/Restaurent-management)** | Food waste management system for restaurants. | Python |
 | **[StyleSense AI](https://github.com/The-AlphaWolf/AI-Driven-body-analysis)** | Photo-based style recommender — detects face shape, skin tone (LAB k-means) and body proportions, then suggests silhouettes, necklines, palettes with reasoning. | Flask, React, MediaPipe, scikit-learn, PostgreSQL |
 | **[GAME-ANTG1](https://github.com/The-AlphaWolf/GAME-ANTG1)** | Next.js web game, Dockerised with Prisma + Vitest, shipped on Vercel. | Next.js, TypeScript, Prisma |
-| **[portfolio](https://github.com/The-AlphaWolf/portfolio)** | Terminal-aesthetic personal site — fully static export, data-file driven, auto-deployed to GitHub Pages. | Next.js, TypeScript, Tailwind, Framer Motion |
+| **[portfolio](https://github.com/The-AlphaWolf/portfolio)** — [live ↗](https://the-alphawolf.github.io/portfolio/) | Terminal-aesthetic personal site — fully static export, data-file driven, auto-deployed to GitHub Pages. | Next.js, TypeScript, Tailwind, Framer Motion |
 | **[RIS-SNR-Gain-Comparison](https://github.com/The-AlphaWolf/RIS-SNR-Gain-Comparison)** | Reconfigurable Intelligent Surface SNR gain across Rayleigh vs Rician fading, swept over height and x-position — ETCE research. | Simulation & plots |
 
 ---
