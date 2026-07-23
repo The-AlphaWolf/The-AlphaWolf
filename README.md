@@ -74,41 +74,64 @@
 
 ---
 
-## 🎯 Specialized Knowledge
+## ⚙️ Specialized Knowledge
 
-**Hardware**
-- 8085 Microprocessor
-- MOSFET Design
+<div align="center">
 
-**Communication**
-- PCM & Sampling
-- Digital Modulation
-- RIS channel modelling — Rayleigh vs Rician SNR gain
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/processor.png" width="70"/><br>
+<b>💾 Hardware</b><br>
+<sub>8085 Microprocessor<br>MOSFET Design</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/radio-tower.png" width="70"/><br>
+<b>📡 Communication</b><br>
+<sub>PCM, Sampling<br>Digital Modulation<br>RIS — Rayleigh vs Rician</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/microphone.png" width="70"/><br>
+<b>🎙️ Speech & Vision</b><br>
+<sub>faster-whisper / CTranslate2<br>Rule-based transpilers<br>MediaPipe Face Mesh & Pose</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="70"/><br>
+<b>🛠️ Development</b><br>
+<sub>Next.js, Flask, Prisma<br>Docker, Vitest, GitHub Actions<br>VS Code, Git, Linux & Windows</sub>
+</td>
+</tr>
+</table>
 
-**Development**
-- On-device speech inference — faster-whisper / CTranslate2, GPU + CPU fallback
-- Rule-based transpilers — deterministic speech-to-syntax, no LLM
-- Computer vision pipelines — MediaPipe Face Mesh & Pose, k-means skin-tone clustering in LAB space
-- Full-stack web — Next.js App Router, static export, Flask REST APIs, JWT auth, PostgreSQL + Prisma
-- Tooling & CI — Docker, Vitest, ESLint/Prettier, Husky hooks, GitHub Actions to Pages/Vercel
-- Environment — VS Code, Git/GitHub, Linux & Windows
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=The-AlphaWolf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-AlphaWolf&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=The-AlphaWolf&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=The-AlphaWolf&theme=tokyonight" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-AlphaWolf&theme=tokyonight&no-frame=true&column=7" />
-</p>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=The-AlphaWolf&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=The-AlphaWolf&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=The-AlphaWolf&theme=tokyonight&utcOffset=5.5" />
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=The-AlphaWolf&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=The-AlphaWolf&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-AlphaWolf/The-AlphaWolf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-AlphaWolf/The-AlphaWolf/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/The-AlphaWolf/The-AlphaWolf/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ---
 
@@ -148,7 +171,7 @@ Primary CP languages: **Python3** (96 solved) and **C++** (55 solved).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arijit-paul-ju"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arijit.01paul@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dequnuch@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/RoseRei_Arijit/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/The-AlphaWolf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
