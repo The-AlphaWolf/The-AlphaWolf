@@ -21,7 +21,7 @@
 - 🧪 Also built **[StyleSense AI](https://github.com/The-AlphaWolf/AI-Driven-body-analysis)** — CV-based style recommender (MediaPipe + Flask + React) and **RIS / SNR fading research** from the ETCE side
 - 🌱 Learning **Advanced DSA, Applied ML, Full-stack TypeScript**
 - 💬 Ask me about **Python, C++, DSA, local-first / privacy-first tooling**
-- 📫 Reach me at **arijit.01paul@gmail.com**
+- 📫 Reach me at **dequnuch@gmail.com**
 - ⚡ Philosophy: *Build it local, build it fast, build it so it works offline*
 
 ---
