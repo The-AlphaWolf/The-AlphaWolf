@@ -178,4 +178,42 @@ Primary CP languages: **Python3** (96 solved) and **C++** (55 solved).
 
 ---
 
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/400x400bb.jpg" width="130" /><br>
+      <b>Do I Wanna Know?</b><br>
+      <sub>Arctic Monkeys</sub><br>
+      <sub>AM • 4:32</sub><br><br>
+      <a href="https://music.apple.com/us/album/do-i-wanna-know/663097964?i=663097965">
+        <img src="https://img.shields.io/badge/Now_Playing-FF6B35?style=flat-square&logo=applemusic&logoColor=white" height="20" />
+      </a>
+      <a href="https://open.spotify.com/search/Arctic%20Monkeys%20Do%20I%20Wanna%20Know">
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" height="20" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/9c/b5/699cb5d6-115c-ff73-9d26-e57ea4350d72/887828031795.png/400x400bb.jpg" width="130" /><br>
+      <b>I Wanna Be Yours</b><br>
+      <sub>Arctic Monkeys</sub><br>
+      <sub>AM • 3:04</sub><br><br>
+      <a href="https://music.apple.com/us/album/i-wanna-be-yours/663097964?i=663098065">
+        <img src="https://img.shields.io/badge/Up_Next-555555?style=flat-square&logo=applemusic&logoColor=white" height="20" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+🎧 *On repeat: **AM** — Arctic Monkeys (2013)*
+
+</div>
+
+---
+
 <p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+
+<p align="center"><b>⭐ From <a href="https://github.com/The-AlphaWolf">The-AlphaWolf</a> | Built local, shipped public</b></p>
