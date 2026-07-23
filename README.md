@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:5c1f06,70:c1440e,100:ff8c42&height=280&section=header&text=Arijit%20Paul&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Problem%20Solver%20|%20LeetCode%20Guardian%20|%20Builder%20of%20Local-First%20Tools&descAlignY=52&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1440e,50:ff6b35,100:ffa552&height=280&section=header&text=Arijit%20Paul&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Problem%20Solver%20|%20LeetCode%20Guardian%20|%20Builder%20of%20Local-First%20Tools&descAlignY=52&descSize=18" />
 </div>
 
 <div align="center">
