@@ -177,12 +177,14 @@ Primary CP languages: **Python3** (96 solved) and **C++** (55 solved).
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[FlowSuite](https://github.com/The-AlphaWolf/FlowSuite)** ⭐ | Local voice-to-text engine, 3 hotkeys — dictate prose, or speak Python/C++ that turns into real syntax. Fully offline, no cloud, no telemetry. | Python, faster-whisper, CTranslate2 |
-| **[Restaurent-management](https://github.com/The-AlphaWolf/Restaurent-management)** | Food waste management system for restaurants. | Python |
+| **[FlowSuite](https://github.com/The-AlphaWolf/FlowSuite)** 🏳️ | Local voice-to-text engine, 3 hotkeys — dictate prose, or speak Python/C++ that turns into real syntax. Fully offline, no cloud, no telemetry. | Python, faster-whisper, CTranslate2 |
+| **[CodeNSliceR](https://github.com/The-AlphaWolf/CodeNSliceR)** 🏳️ — [live ↗](https://codenslicer.vercel.app) | Assembly-style puzzle game — write bit-manipulation code to route simulated 5G packets into network slices. | TypeScript |
 | **[StyleSense AI](https://github.com/The-AlphaWolf/AI-Driven-body-analysis)** | Photo-based style recommender — detects face shape, skin tone (LAB k-means) and body proportions, then suggests silhouettes, necklines, palettes with reasoning. | Flask, React, MediaPipe, scikit-learn, PostgreSQL |
+| **[Restaurent-management](https://github.com/The-AlphaWolf/Restaurent-management)** | Food waste management system for restaurants. | Python |
 | **[GAME-ANTG1](https://github.com/The-AlphaWolf/GAME-ANTG1)** | Next.js web game, Dockerised with Prisma + Vitest, shipped on Vercel. | Next.js, TypeScript, Prisma |
 | **[portfolio](https://github.com/The-AlphaWolf/portfolio)** — [live ↗](https://the-alphawolf.github.io/portfolio/) | Terminal-aesthetic personal site — fully static export, data-file driven, auto-deployed to GitHub Pages. | Next.js, TypeScript, Tailwind, Framer Motion |
-| **[RIS-SNR-Gain-Comparison](https://github.com/The-AlphaWolf/RIS-SNR-Gain-Comparison)** | Reconfigurable Intelligent Surface SNR gain across Rayleigh vs Rician fading, swept over height and x-position — ETCE research. | Simulation & plots |
+| **[portfolio-3d](https://github.com/The-AlphaWolf/portfolio-3d)** — [live ↗](https://portfolio-3d-roserei.vercel.app) | Alche-style 3D WebGL portfolio — crystal logo with transmission + dispersion, bloom, chromatic aberration, GSAP intro/outro build. | Vite, React, TypeScript, react-three-fiber, GSAP |
+| **[alphawolf-systems](https://github.com/The-AlphaWolf/alphawolf-systems)** — [live ↗](https://the-alphawolf.github.io/alphawolf-systems/) | Sci-fi/terminal 3D portfolio — fly through a hub of 5 sectors, each a holographic terminal panel. | Next.js, TypeScript, react-three-fiber |
 
 ---
 
