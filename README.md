@@ -185,6 +185,7 @@ Primary CP languages: **Python3** (96 solved) and **C++** (55 solved).
 | **[portfolio](https://github.com/The-AlphaWolf/portfolio)** — [live ↗](https://the-alphawolf.github.io/portfolio/) | Terminal-aesthetic personal site — fully static export, data-file driven, auto-deployed to GitHub Pages. | Next.js, TypeScript, Tailwind, Framer Motion |
 | **[portfolio-3d](https://github.com/The-AlphaWolf/portfolio-3d)** — [live ↗](https://portfolio-3d-roserei.vercel.app) | Alche-style 3D WebGL portfolio — crystal logo with transmission + dispersion, bloom, chromatic aberration, GSAP intro/outro build. | Vite, React, TypeScript, react-three-fiber, GSAP |
 | **[alphawolf-systems](https://github.com/The-AlphaWolf/alphawolf-systems)** — [live ↗](https://the-alphawolf.github.io/alphawolf-systems/) | Sci-fi/terminal 3D portfolio — fly through a hub of 5 sectors, each a holographic terminal panel. | Next.js, TypeScript, react-three-fiber |
+| **[RIS-SNR-Gain-Comparison](https://github.com/The-AlphaWolf/RIS-SNR-Gain-Comparison)** | Reconfigurable Intelligent Surface SNR gain across Rayleigh vs Rician fading, swept over height and x-position — ETCE research. | Simulation & plots |
 
 ---
 
